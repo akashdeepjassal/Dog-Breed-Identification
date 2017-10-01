@@ -1,4 +1,4 @@
-# Dog-Breed-Identification-
+# Dog-Breed-Identification
 Who's a good dog? 
 Who likes ear scratches? 
 Well, it seems those fancy deep neural networks don't have all the answers. 
